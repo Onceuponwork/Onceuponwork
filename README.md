@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 🌱 I’m currently learning Python, especially in Pandas
+# 🌱 I’m currently learning Python
 # Want to prove my work skill
 
 <!--
